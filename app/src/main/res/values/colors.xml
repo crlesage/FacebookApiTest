@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Got colors from http://designpieces.com/2012/12/facebook-colour-palette/ -->
+    <color name="colorPrimary">#3B5998</color>
+    <color name="colorPrimaryDark">#2A3F6C</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="timeColor">#B0BFE0</color>
+    <color name="titleColor">#3B5998</color>
+    <color name="descriptionColor">#000000</color>
+</resources>
